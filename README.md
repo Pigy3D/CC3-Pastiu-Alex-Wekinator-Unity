@@ -8,9 +8,13 @@ This project is a simple platformer working in Unity through Wekinator and the V
 ~~Quickstart:
 
 -Clone this repository.
+
 -Open Various_Audio_Inputs.exe | Path: Pastiu Alex- CC3 Wekinator Unity\Various_Audio_Inputs_win64\bin
+
 -Open Wekinator. Then File>Open Project and select silence-A-I-R training.wekproj | Path: Pastiu Alex- CC3 Wekinator Unity\silence-A-I-R training
+
 -Run the Wekinator model
+
 -Run the Play Maker Tests.exe Unity Build | Path: Pastiu Alex- CC3 Wekinator Unity\Unity Build
 
 Done. All ports should be already set. The Unity build should open and you should be able to control the red square using your voice.
